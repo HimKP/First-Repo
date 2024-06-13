@@ -1,3 +1,9 @@
 center{
-    color: aqua;
+    color:darkolivegreen;
+    outline: auto;
+    outline-color: brown;
+}
+p{
+    background: #000;
+    color: aliceblue;
 }
