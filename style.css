@@ -6,4 +6,7 @@ center{
 p{
     background: #000;
     color: aliceblue;
+    font:bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
 }
